@@ -1,0 +1,9 @@
+{
+  "name": "my_mod",
+  "version": "0.0.1",
+  "factorio_version": "0.16",
+  "title": "Ploppy's data exporter",
+  "author": "Ploppy",
+  "description": "Exports recipes & crafting machines to json",
+  "dependencies": []
+}
