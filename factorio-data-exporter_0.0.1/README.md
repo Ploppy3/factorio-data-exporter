@@ -1,5 +1,5 @@
 # Build mod
-.zip the folder of the project
+.zip the folder
 
 # Install mod
 Copy .zip `C:\Users\[user]\AppData\Roaming\Factorio\mods`
