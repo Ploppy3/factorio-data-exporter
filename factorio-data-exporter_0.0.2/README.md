@@ -8,7 +8,7 @@
 
 Copy .zip `C:\Users\[user]\AppData\Roaming\Factorio\mods`
 
-## Extract recipes & crafting machines & to json
+## Extract recipes & crafting machines & modules to json
 
 * Start game
 * Load world
