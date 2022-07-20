@@ -12,7 +12,11 @@ Copy .zip `C:\Users\[user]\AppData\Roaming\Factorio\mods`
 
 * Start game
 * Load world
-* Execute command: `/c remote.call("Extractor", "export_all");`
+* Execute command: 
+
+```
+/c remote.call("Extractor", "export_all");
+```
 
 Location of extracted data: `C:\Users\[user]\AppData\Roaming\Factorio\script-output`
 
@@ -22,4 +26,4 @@ In order to extract expensive recipes just extract the recipes as usual but in m
 
 ## Extract mod recipes
 
-In order to extract expensive recipes just extract the recipes as usual but in worl with mods enabled.
+In order to extract mods recipes just extract the recipes as usual but in worl with mods enabled.
